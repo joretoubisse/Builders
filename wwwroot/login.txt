@@ -1,0 +1,2 @@
+SELECT A.intid, A.Name + ' ' + A.Surname,A.Celno,A.sms FROM Stats_Form A INNER JOIN MsgGroups B ON A.intid = B.MemberID  WHERE A.Campus = 'Delmas Campus' and A.ChurchID = '1' and A.IsActive = '1' and B.groupid = '7'
+SELECT A.intid, A.Name + ' ' + A.Surname,A.Celno,A.sms FROM Stats_Form A INNER JOIN MsgGroups B ON A.intid = B.MemberID  WHERE A.Campus = 'Benoni Campus' and A.ChurchID = '1' and A.IsActive = '1' and B.groupid = '8'
