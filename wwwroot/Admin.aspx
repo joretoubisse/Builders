@@ -194,7 +194,7 @@
 												<li class="kt-nav__item">
 													<a href="Statistics.aspx" class="kt-nav__link">
 														<i class="kt-nav__link-icon flaticon2-avatar"></i>
-														<span class="kt-nav__link-text">Add Members</span>
+														<span class="kt-nav__link-text">Add  Members</span>
 													</a>
 												</li>
 											</ul>
